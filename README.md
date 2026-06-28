@@ -69,11 +69,6 @@ A full-stack Mutual Fund Analytics Platform built using real Indian mutual fund 
 * State-wise Participation
 * Income Distribution
 
-### Page 4: Portfolio Holdings
-
-* Sector Exposure
-* Top Holdings
-* Portfolio Concentration
 
 ## Project Outcome
 
